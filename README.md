@@ -3,8 +3,8 @@ We will look at the different feature selection techniques: Wrapper, Embedded, F
 
 Under the three feature selection techniques, these are the different methods.
 
-Wrapper - Forward feature selection, Backward feature selection 
+1. Wrapper - Forward feature selection, Backward feature selection 
 
-Embedded - LASSO
+2. Embedded - LASSO
 
-Filter - Pearson, ANOVA, Chi-squared
+3. Filter - Pearson, ANOVA, Chi-squared
